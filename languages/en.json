@@ -1,0 +1,14 @@
+{
+    "no": "Norway","pl": "Poland","il": "Israel",
+    "stopped": "Stopped",
+    "loading": "Loading...",
+    "connecting": "Connecting...",
+    "nextInQueue": "Next in queue",
+    "sessionID": "Session ID",
+    "eurovision": "Eurovision",
+    "new": "New",
+    "manager": "Manager",
+    "radio": "Radio",
+    "downloader": "Downloader",
+    "listenModule": "Web UI"
+}
